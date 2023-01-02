@@ -1,3 +1,3 @@
-# Degisken örnekleri
+# C# 101 patikası (www.patika.dev)
 
-www.patika.dev
+---
