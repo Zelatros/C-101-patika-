@@ -1,0 +1,15 @@
+C:\Users\TTK\Desktop\Yazilim_Calismalari\DateTime_Math\bin\Debug\net7.0\DateTime_Math.exe
+C:\Users\TTK\Desktop\Yazilim_Calismalari\DateTime_Math\bin\Debug\net7.0\DateTime_Math.deps.json
+C:\Users\TTK\Desktop\Yazilim_Calismalari\DateTime_Math\bin\Debug\net7.0\DateTime_Math.runtimeconfig.json
+C:\Users\TTK\Desktop\Yazilim_Calismalari\DateTime_Math\bin\Debug\net7.0\DateTime_Math.dll
+C:\Users\TTK\Desktop\Yazilim_Calismalari\DateTime_Math\bin\Debug\net7.0\DateTime_Math.pdb
+C:\Users\TTK\Desktop\Yazilim_Calismalari\DateTime_Math\obj\Debug\net7.0\DateTime_Math.csproj.AssemblyReference.cache
+C:\Users\TTK\Desktop\Yazilim_Calismalari\DateTime_Math\obj\Debug\net7.0\DateTime_Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TTK\Desktop\Yazilim_Calismalari\DateTime_Math\obj\Debug\net7.0\DateTime_Math.AssemblyInfoInputs.cache
+C:\Users\TTK\Desktop\Yazilim_Calismalari\DateTime_Math\obj\Debug\net7.0\DateTime_Math.AssemblyInfo.cs
+C:\Users\TTK\Desktop\Yazilim_Calismalari\DateTime_Math\obj\Debug\net7.0\DateTime_Math.csproj.CoreCompileInputs.cache
+C:\Users\TTK\Desktop\Yazilim_Calismalari\DateTime_Math\obj\Debug\net7.0\DateTime_Math.dll
+C:\Users\TTK\Desktop\Yazilim_Calismalari\DateTime_Math\obj\Debug\net7.0\refint\DateTime_Math.dll
+C:\Users\TTK\Desktop\Yazilim_Calismalari\DateTime_Math\obj\Debug\net7.0\DateTime_Math.pdb
+C:\Users\TTK\Desktop\Yazilim_Calismalari\DateTime_Math\obj\Debug\net7.0\DateTime_Math.genruntimeconfig.cache
+C:\Users\TTK\Desktop\Yazilim_Calismalari\DateTime_Math\obj\Debug\net7.0\ref\DateTime_Math.dll
