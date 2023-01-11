@@ -1,0 +1,15 @@
+C:\Users\ttuna\Desktop\Pratikler\GenericCollections_List\obj\Debug\net7.0\GenericCollections_List.csproj.AssemblyReference.cache
+C:\Users\ttuna\Desktop\Pratikler\GenericCollections_List\obj\Debug\net7.0\GenericCollections_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttuna\Desktop\Pratikler\GenericCollections_List\obj\Debug\net7.0\GenericCollections_List.AssemblyInfoInputs.cache
+C:\Users\ttuna\Desktop\Pratikler\GenericCollections_List\obj\Debug\net7.0\GenericCollections_List.AssemblyInfo.cs
+C:\Users\ttuna\Desktop\Pratikler\GenericCollections_List\obj\Debug\net7.0\GenericCollections_List.csproj.CoreCompileInputs.cache
+C:\Users\ttuna\Desktop\Pratikler\GenericCollections_List\bin\Debug\net7.0\GenericCollections_List.exe
+C:\Users\ttuna\Desktop\Pratikler\GenericCollections_List\bin\Debug\net7.0\GenericCollections_List.deps.json
+C:\Users\ttuna\Desktop\Pratikler\GenericCollections_List\bin\Debug\net7.0\GenericCollections_List.runtimeconfig.json
+C:\Users\ttuna\Desktop\Pratikler\GenericCollections_List\bin\Debug\net7.0\GenericCollections_List.dll
+C:\Users\ttuna\Desktop\Pratikler\GenericCollections_List\obj\Debug\net7.0\GenericCollections_List.dll
+C:\Users\ttuna\Desktop\Pratikler\GenericCollections_List\obj\Debug\net7.0\refint\GenericCollections_List.dll
+C:\Users\ttuna\Desktop\Pratikler\GenericCollections_List\obj\Debug\net7.0\GenericCollections_List.pdb
+C:\Users\ttuna\Desktop\Pratikler\GenericCollections_List\obj\Debug\net7.0\GenericCollections_List.genruntimeconfig.cache
+C:\Users\ttuna\Desktop\Pratikler\GenericCollections_List\obj\Debug\net7.0\ref\GenericCollections_List.dll
+C:\Users\ttuna\Desktop\Pratikler\GenericCollections_List\bin\Debug\net7.0\GenericCollections_List.pdb
