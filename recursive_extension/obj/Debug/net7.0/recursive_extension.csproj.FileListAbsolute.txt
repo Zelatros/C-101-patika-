@@ -1,0 +1,15 @@
+C:\Users\ttuna\Desktop\Pratikler\recursive_extension\bin\Debug\net7.0\recursive_extension.exe
+C:\Users\ttuna\Desktop\Pratikler\recursive_extension\bin\Debug\net7.0\recursive_extension.deps.json
+C:\Users\ttuna\Desktop\Pratikler\recursive_extension\bin\Debug\net7.0\recursive_extension.runtimeconfig.json
+C:\Users\ttuna\Desktop\Pratikler\recursive_extension\bin\Debug\net7.0\recursive_extension.dll
+C:\Users\ttuna\Desktop\Pratikler\recursive_extension\bin\Debug\net7.0\recursive_extension.pdb
+C:\Users\ttuna\Desktop\Pratikler\recursive_extension\obj\Debug\net7.0\recursive_extension.csproj.AssemblyReference.cache
+C:\Users\ttuna\Desktop\Pratikler\recursive_extension\obj\Debug\net7.0\recursive_extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttuna\Desktop\Pratikler\recursive_extension\obj\Debug\net7.0\recursive_extension.AssemblyInfoInputs.cache
+C:\Users\ttuna\Desktop\Pratikler\recursive_extension\obj\Debug\net7.0\recursive_extension.AssemblyInfo.cs
+C:\Users\ttuna\Desktop\Pratikler\recursive_extension\obj\Debug\net7.0\recursive_extension.csproj.CoreCompileInputs.cache
+C:\Users\ttuna\Desktop\Pratikler\recursive_extension\obj\Debug\net7.0\recursive_extension.dll
+C:\Users\ttuna\Desktop\Pratikler\recursive_extension\obj\Debug\net7.0\refint\recursive_extension.dll
+C:\Users\ttuna\Desktop\Pratikler\recursive_extension\obj\Debug\net7.0\recursive_extension.pdb
+C:\Users\ttuna\Desktop\Pratikler\recursive_extension\obj\Debug\net7.0\recursive_extension.genruntimeconfig.cache
+C:\Users\ttuna\Desktop\Pratikler\recursive_extension\obj\Debug\net7.0\ref\recursive_extension.dll
