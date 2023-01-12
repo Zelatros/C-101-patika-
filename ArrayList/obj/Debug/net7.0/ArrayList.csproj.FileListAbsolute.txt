@@ -1,0 +1,15 @@
+C:\Users\ttuna\Desktop\Pratikler\C-101-patika-\ArrayList\obj\Debug\net7.0\ArrayList.csproj.AssemblyReference.cache
+C:\Users\ttuna\Desktop\Pratikler\C-101-patika-\ArrayList\obj\Debug\net7.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttuna\Desktop\Pratikler\C-101-patika-\ArrayList\obj\Debug\net7.0\ArrayList.AssemblyInfoInputs.cache
+C:\Users\ttuna\Desktop\Pratikler\C-101-patika-\ArrayList\obj\Debug\net7.0\ArrayList.AssemblyInfo.cs
+C:\Users\ttuna\Desktop\Pratikler\C-101-patika-\ArrayList\obj\Debug\net7.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\ttuna\Desktop\Pratikler\C-101-patika-\ArrayList\bin\Debug\net7.0\ArrayList.exe
+C:\Users\ttuna\Desktop\Pratikler\C-101-patika-\ArrayList\bin\Debug\net7.0\ArrayList.deps.json
+C:\Users\ttuna\Desktop\Pratikler\C-101-patika-\ArrayList\bin\Debug\net7.0\ArrayList.runtimeconfig.json
+C:\Users\ttuna\Desktop\Pratikler\C-101-patika-\ArrayList\bin\Debug\net7.0\ArrayList.dll
+C:\Users\ttuna\Desktop\Pratikler\C-101-patika-\ArrayList\bin\Debug\net7.0\ArrayList.pdb
+C:\Users\ttuna\Desktop\Pratikler\C-101-patika-\ArrayList\obj\Debug\net7.0\ArrayList.dll
+C:\Users\ttuna\Desktop\Pratikler\C-101-patika-\ArrayList\obj\Debug\net7.0\refint\ArrayList.dll
+C:\Users\ttuna\Desktop\Pratikler\C-101-patika-\ArrayList\obj\Debug\net7.0\ArrayList.pdb
+C:\Users\ttuna\Desktop\Pratikler\C-101-patika-\ArrayList\obj\Debug\net7.0\ArrayList.genruntimeconfig.cache
+C:\Users\ttuna\Desktop\Pratikler\C-101-patika-\ArrayList\obj\Debug\net7.0\ref\ArrayList.dll
